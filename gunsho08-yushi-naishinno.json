@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yushi-naishinno-utaawase",
  "yomi": "ゆうしないしんのうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（桜・郭公・鹿の三題）",
+  "era": "永承5年（1050）6月5日",
+  "author": "主催 祐子内親王（関白藤原頼通の差配）",
+  "desc": "後朱雀天皇の皇女祐子内親王の家で、賀陽院で催された歌合。関白頼通が男女各六人を選んで桜・郭公・鹿の題を与え、右大臣以下の上達部が列席した。式部大輔資業の漢文の記録を伴う。"
+ },
  "editions": [
   {
    "pid": "1879502",
